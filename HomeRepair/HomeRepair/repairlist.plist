@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RepairList</key>
+	<array>
+		<string>Thermostat</string>
+		<string>Toilet</string>
+		<string>Garbage Disposal</string>
+		<string>Smoke Detector</string>
+		<string>Deadbolt</string>
+		<string>Light Bulb</string>
+		<string>Washer</string>
+		<string>Dryer</string>
+		<string>Dishwasher</string>
+		<string>Refrigerator</string>
+	</array>
+	<key>Thumbnail</key>
+	<array>
+		<string>Thermostat.jpg</string>
+		<string>Toilet.jpg</string>
+		<string>Garbage_Disposal.jpg</string>
+		<string>Smoke_Detector.jpg</string>
+		<string>Dead_bolt.jpg</string>
+		<string>Light_Bulb.jpg</string>
+		<string>washer.jpg</string>
+		<string>dryer.jpg</string>
+		<string>dishwasher.jpg</string>
+		<string>refrigerator.jpg</string>
+	</array>
+	<key>Definition</key>
+	<array>
+		<string>A device, as in a home heating system, a refrigerator, or an air conditioner, that automatically responds to temperature changes and activates switches controlling the equipment.</string>
+		<string>This is a Toilet.</string>
+		<string>This is a Garbage Disposal.</string>
+		<string>This is a Smoke Detector.</string>
+		<string>This is a Deadbolt.</string>
+		<string>This is a Light Bulb.</string>
+		<string>This is a Washer.</string>
+		<string>This is a Dryer.</string>
+		<string>This is a Dishwasher.</string>
+		<string>This is a Refrigerator.</string>
+	</array>
+	<key>Conclude</key>
+	<array>
+		<string>Thermostats are equipped with a battery to save settings that you&apos;ve set in case of a power outage. Also the battery serves as the power source, so you could mount the thermostat anywhere in your home and it will have power. Check and replaced the batteries if the screen is not on or if the battery sign is lit on your thermostat.</string>
+		<string>Conclude for Toilet here.</string>
+		<string>Conclude for Garbage Disposal here.</string>
+		<string>Conclude for Smoke Detector here.</string>
+		<string>Conclude for Deadbolt here.</string>
+		<string>Conclude for Light Bulb here.</string>
+		<string>Conclude for Washer here.</string>
+		<string>Conclude for Dryer here.</string>
+		<string>Conclude for Dishwasher here.</string>
+		<string>Conclude for Refrigerator here.</string>
+	</array>
+</dict>
+</plist>
